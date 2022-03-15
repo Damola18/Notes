@@ -114,3 +114,12 @@
     flex-direction: column;
   }
 }
+
+.container {
+  display:flex;
+  margin: 10px;
+}
+
+.left{
+  width: 20rem;
+}
